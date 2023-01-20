@@ -1,7 +1,7 @@
 # Author: Sandeep Sahani
 # Created: 19 Jan 2023
 
-#Q5.Display sum of all odd numbers in between two specified range in shell scripting using while loop.
+#Q4.Display sum of all odd numbers in between two specified range in shell scripting using while loop.
 
 #!/bin/bash
 echo "Enter the lower range: "
